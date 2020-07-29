@@ -1,0 +1,8 @@
+{
+   "name": "cookiecutter_dash_app_demo",
+   "buildpacks": [
+      {
+         "url": "heroku/python"
+      }
+   ]
+}
